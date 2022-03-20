@@ -27,7 +27,7 @@ while True:
     elif choice=='6':
         print('正在退出王者荣耀系统')
         time.sleep(3)
-        print('成功退出')
+        print('成功退出啦')
         break
     else:
         print('输入错误')

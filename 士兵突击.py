@@ -30,6 +30,6 @@ qiang.shoot()
 
 
 #创建士兵
-bingbing=Solider("兵兵")
+bingbing=Solider("冰冰")
 bingbing.gun=qiang
 print(bingbing.gun)
