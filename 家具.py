@@ -4,7 +4,9 @@ class HouseItem:
         self.area = area
 
     def __str__(self):
+
         return "[%s]占地面积 %.2f" % (self.name, self.area)
+
 
 
 class House:
