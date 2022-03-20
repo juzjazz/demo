@@ -25,7 +25,7 @@ while True:
             print(role[2].center(10), end='')
             print()
     elif choice=='6':
-        print('正在退出王者荣耀系统')
+        print('正在退出')
         time.sleep(3)
         print('成功退出啦')
         break
